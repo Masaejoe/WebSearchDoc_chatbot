@@ -1,0 +1,13 @@
+streamlit
+streamlit_chat
+langchain
+pdfplumber
+pandas
+openai
+tqdm
+python-dotenv
+pypdf
+tiktoken
+faiss-cpu
+google-search-results
+PyPDF2
