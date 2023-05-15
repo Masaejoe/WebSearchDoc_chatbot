@@ -11,3 +11,4 @@ tiktoken
 faiss-cpu
 google-search-results
 PyPDF2
+pycryptodome
